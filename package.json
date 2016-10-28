@@ -1,0 +1,12 @@
+{
+  "name": "dru-db-mongodb",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "GPL-3.0",
+  "description": "dru-db middleware to manage mongodb database",
+  "repository": {
+    "url": "https://github.com/Drulac/dru-db-mongodb",
+    "type": "git"
+  },
+  "author": "Drulac <dev.drulac@gmail.com>"
+}
